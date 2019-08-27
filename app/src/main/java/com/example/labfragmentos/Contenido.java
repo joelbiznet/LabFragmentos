@@ -13,5 +13,4 @@ public class Contenido {
             R.drawable.android2,
             R.drawable.android3,
             R.drawable.android4};
-
 }
