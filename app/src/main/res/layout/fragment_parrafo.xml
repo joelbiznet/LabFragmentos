@@ -30,13 +30,13 @@
         android:fontFamily="sans-serif"
         android:text="@string/str_parrafo"
         android:textColor="@color/colorPrimary"
-        android:textSize="25dp" />
+        android:textSize="20dp" />
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_margin="10dp"
-        android:layout_height="wrap_content"
         android:id="@+id/img_imagen"
-        android:src="@drawable/android"/>
+        android:layout_width="match_parent"
+        android:layout_height="288dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/android" />
 
 </LinearLayout>
